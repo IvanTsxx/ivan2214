@@ -12,7 +12,7 @@
 💡 Apasionado por la **inteligencia artificial** y la innovación tecnológica.  
 📚 Siempre en constante aprendizaje y crecimiento profesional.  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portafolio](https://ivanbong.vercel.app/) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portafolio](https://portafolio-final-sooty.vercel.app/es) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
 
 
 <p align="center">
