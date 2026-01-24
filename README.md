@@ -6,6 +6,4 @@ Next.js ·  Vercel ▲ ❤️
 🌐 [Portfolio](https://portafolio-final-sooty.vercel.app/es)  
 📫 bongiovannidev@gmail.com
 
-###
 <img src="https://ivan2214.github.io/ivan2214/snake.svg" alt="Snake animation" />
-###
