@@ -1,5 +1,5 @@
 ## Hi, I'm Ivan Bongiovanni 👋  
-Full Stack Developer · Argentina 🇦🇷  
+Full Stack Developer · Argentina 🇦🇷 👩🏻‍💻
 Next.js ·  Vercel ▲ ❤️
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/)  
