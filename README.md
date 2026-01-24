@@ -1,42 +1,8 @@
-![Header](./redes/banner-linkedin.png)
-
-# 👋 ¡Hola! Soy Ivan Bongiovanni
-
-🚀 Desarrollador **Full Stack** con especial interés en el desarrollo frontend. Me apasiona crear soluciones innovadoras y eficientes.  
-
-### 🛠️ Tecnologías y herramientas:  
-- **Frontend:** Astro, Next.js, React.js, TailwindCSS, ShadcnUI  
-- **Backend:** Node.js, PHP, Prisma ORM, PostgreSQL  
-- **DevOps:** Docker  
-
-💡 Apasionado por la **inteligencia artificial** y la innovación tecnológica.  
-📚 Siempre en constante aprendizaje y crecimiento profesional.  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portafolio](https://portafolio-final-sooty.vercel.app/es) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
 
 
-<p align="center">
- <h2> Tecnologías que conozco 👨🏻‍💻 </h2>
-</p>
-<!--tech stack icons-->
-<p align="center">
-  <h2>:star2: Front End </h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,nextjs,vercel&perline=6" />
-  </a>
+# 👋 Hi! I'm Ivan Bongiovanni 🧑🏻‍💻Full Stack developer | Argentina 🇦🇷 | Nextjs && Vercel ❤️
 
-  <h2>:zap: Back End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker&perline=6" />
-  </a>
-
-  <h2>:wrench: Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
-  </a>
-</p>
-<br>
-
+🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portfolio](https://portafolio-final-sooty.vercel.app/es) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
 
 <!------------------------->
 <h2>GitHub :octocat:</h2>
