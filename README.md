@@ -1,8 +1,12 @@
 
 
-# 👋 Hi! I'm Ivan Bongiovanni 🧑🏻‍💻Full Stack developer | Argentina 🇦🇷 | Nextjs && Vercel ❤️
+## Ivan Bongiovanni  
+Full Stack Developer · Argentina 🇦🇷  
+Next.js · Vercel
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portfolio](https://portafolio-final-sooty.vercel.app/es) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/)  
+🌐 [Portfolio](https://portafolio-final-sooty.vercel.app/es)  
+📫 bongiovannidev@gmail.com
 
 <!------------------------->
 <h2>GitHub :octocat:</h2>
